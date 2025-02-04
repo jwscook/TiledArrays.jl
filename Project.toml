@@ -1,0 +1,8 @@
+name = "TiledArrays"
+uuid = "30612b54-f91d-429b-a274-18f43f27c77e"
+authors = ["James Cook <cookjws@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ChunkSplitters = "ae650224-84b6-46f8-82ea-d812ca08434e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
